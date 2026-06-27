@@ -7,8 +7,8 @@
     "test": "npx playwright test",
     "test:qa": "npx playwright test --config=playwright.config.qa.ts",
     "test:uat": "npx playwright test --config=playwright.config.uat.ts",
-    "generate-allure": "npx allure generate allure-results --clean -o allure-report",
-    "open-allure": "npx allure open allure-report"
+    "generate:allure": "npx allure generate allure-results --clean -o allure-report",
+    "open:allure": "npx allure open allure-report"
   },
   "keywords": [],
   "author": "",
