@@ -3,7 +3,7 @@ import { HomePage } from "../pages/HomePage.js";
 import{test,expect} from "../fixtures/basrFixtures.js"
 
 
-test('login to application',
+test('login to application test',
      {tag:['@sanity','@product','@regression'],
       annotation:[
         {type:'epic',description:'EPC-001 Design loginpage'},
