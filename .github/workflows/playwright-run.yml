@@ -146,8 +146,8 @@ jobs:
       - name: Report URLs
         run: |
           echo "Reports Published!"
-          echo "Playwright Built-in: https://github.com/VedangDeshmukh/playwrightframeworkdemoui/playwright-report/index.html"
-          echo "Allure: https://github.com/VedangDeshmukh/playwrightframeworkdemoui/index.html"
+          echo "Playwright Built-in: https://vedangdeshmukh.github.io/playwrightframeworkdemoui/playwright-report/index.html"
+          echo "Allure: https://vedangdeshmukh.github.io/playwrightframeworkdemoui/index.html"
         #   echo "Playwright HTML Reporter: https://github.com/VedangDeshmukh/playwrightframeworkdemoui/playwright-html-report/index.html"
 
 
