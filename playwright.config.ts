@@ -51,7 +51,11 @@ export default defineConfig({
     trace: 'on-first-retry',
     screenshot:'on',
     headless:true,
-    baseURL:'https://naveenautomationlabs.com/opencart/index.php?route=account/login'
+    baseURL:'https://naveenautomationlabs.com/opencart/index.php?route=account/login',
+    httpCredentials:{
+      username:'admin',
+      password:'admin'
+    }
   },
 
   metadata:{
