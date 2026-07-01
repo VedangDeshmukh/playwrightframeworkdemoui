@@ -1,7 +1,7 @@
 import{test, expect,request} from '@playwright/test'
 
-const clinet_id= 'd792cee3d9c244ddbd98f7c3a08018ff';
-const client_secret = '2bcdfc6655354b43afca2353d805273c'
+const clinet_id= '';
+const client_secret = ''
 let token:string;
 
 
